@@ -1,0 +1,114 @@
+.b1{
+    background-color: black;
+    background-image: url(/backgroundimage.jpeg);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size:cover;
+}
+.myclass0{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: black;
+    border-radius: 5px;
+}
+.myclass{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.myclass1{
+   width:50%;
+   text-align: center;
+}
+.myclass2{
+    width:50%;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding:15px;
+    font-size: large;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.ab{
+    color:white;
+    text-align: center;
+    padding:150px;
+    font-size:xxx-large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 2px 2px 4px #2b0568;
+}
+span{
+    color:white;
+    font-size: x-large;
+    text-shadow: 2px 2px 4px #2b0568;
+}
+a{
+    text-decoration: none;
+}
+.aa{
+    background-image: url(/backgroundimage4.jpeg);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size:cover;
+    border:dashed 1px;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    color:#fff;
+}
+.myclass3{
+    display:flex;
+    flex-direction: row;
+    justify-content:last baseline;
+    margin-bottom: 30px;
+}
+.myclass4{
+    border-radius: 25%;
+    width:20%;
+    margin-top: 10px;
+}
+.myclass5{
+    width:33%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+.myclass6{
+    text-align: center;
+}
+.par1{
+    font-size:medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.myclass8{
+    width: 50%;
+}
+.myclass9{
+    width: 50%;
+    padding:5px;
+} 
+.skills{
+    display: flex;
+    background-image: url(/backgroundimage4.jpeg);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size:cover;
+    border:dotted 1px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    color:#fff
+}
+.myclass10{
+    width: 33%;
+    justify-content: space-around;
+    color:#fff
+}
+.myclass11{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
